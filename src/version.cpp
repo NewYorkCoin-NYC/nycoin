@@ -1,7 +1,7 @@
 // Copyright (c) 2012 The Bitcoin developers
 // Copyright (c) 2012 Litecoin Developers
 // Copyright (c) 2013 Dogecoin Developers
-// Copyright (c) 2014 newyorkc Developers
+// Copyright (c) 2018 newyorkc Developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -11,7 +11,7 @@
 // Name of client reported in the 'version' message. Report the same name
 // for both bitcoind and bitcoin-qt, to make it harder for attackers to
 // target servers or GUI users specifically.
-const std::string CLIENT_NAME("Satoshi");
+const std::string CLIENT_NAME("NewYorkCoin");
 
 // Client version number
 #define CLIENT_VERSION_SUFFIX   "-beta"
