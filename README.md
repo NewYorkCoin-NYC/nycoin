@@ -8,7 +8,7 @@
 ## What is NewYorkCoin?
 NewYorkCoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Dogecoin and Litecoin, NewYorkCoin is built to be cryptocurrency solution for inexpensive global value transmission
 
-http://nycoin.community/
+https://nycoin.community/
 
 
 Development Bounties:
